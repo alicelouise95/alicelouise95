@@ -1,9 +1,19 @@
-👋 Hi, I'm Alice, a 28-year-old aspiring app developer based in Sweden 🇸🇪.
+# Hey there! 👋
 
-🌟 After a decade of work as a care assistant, I'm excited to embark on a new journey in the IT industry. My dream of learning to program and creating innovative mobile apps is finally becoming a reality!
+I'm Alice, originally from Cornwall, UK 🏖️, and currently studying in Malmö 🇸🇪 to become an iOS/Android developer. 📱
 
-🌐 Originally from England 🇬🇧, I now call Sweden my home. The change in scenery and culture has only fueled my passion for technology and app development.
+### My Recent iOS Project: Orison 🙏
 
-📱 I'm currently immersed in the world of iOS and Android app development, honing my skills and bringing my app ideas to life. I'm thrilled to share my coding journey on GitHub and contribute to the vibrant tech community.
+🌟 **Orison** is a Christian prayer app like no other! It's here to make your spiritual journey more meaningful and personal. 
 
-🚀 Join me on my coding adventure as I learn, grow, and create amazing apps for the future! 📦✨
+🙌 Orison generates heartfelt prayers based on your preferences and needs. Whether you seek comfort, guidance, or simply want to express gratitude, Orison has your back.
+
+📸 **Screenshots**:
+
+![Screenshot 1](https://github.com/alicelouise95/Orison/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-01-12%20at%2015.09.59.png)
+
+🚀 You can [check out Orison on the App Store](https://apps.apple.com/us/app/orison/id6473752924) and start your prayerful journey today!
+
+You can connect with me via my [LinkedIn profile](https://www.linkedin.com/in/alice-w-4742b5280/)
+
+Thanks for stopping by my GitHub profile! 🌟
