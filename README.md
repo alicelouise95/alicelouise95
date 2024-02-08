@@ -10,7 +10,7 @@ I'm Alice, originally from Cornwall, UK 🏖️, and currently studying in Malm�
 
 📸 **Screenshots**:
 
-![Screenshot 1](https://github.com/alicelouise95/Orison/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-01-12%20at%2015.09.59.png)
+![Screenshot 1](https://imgur.com/a/FG5S0nC)
 
 🚀 You can [check out Orison on the App Store](https://apps.apple.com/us/app/orison/id6473752924) and start your prayerful journey today!
 
