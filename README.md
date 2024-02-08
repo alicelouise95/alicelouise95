@@ -10,7 +10,7 @@ I'm Alice, originally from Cornwall, UK 🏖️, and currently studying in Malm�
 
 📸 **Screenshots**:
 
-![Screenshot 1]([https://imgur.com/a/FG5S0nC](https://imgur.com/s6knYcJ))
+![Screenshot 1](https://imgur.com/s6knYcJ)
 
 🚀 You can [check out Orison on the App Store](https://apps.apple.com/us/app/orison/id6473752924) and start your prayerful journey today!
 
