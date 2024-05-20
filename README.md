@@ -4,7 +4,7 @@ I'm Alice, originally from Cornwall, UK 🏖️, working in Malmö, Sweden 🇸�
 
 ### My Recent iOS Project: Orison 🙏
 
-🌟 **Orison** For my iOS project during my studies, I developed Orison. Orison is a Christian prayer app that makes your spiritual journey more meaningful and personal. 
+🌟 For my iOS project during my studies, I developed Orison. Orison is a Christian prayer app that makes your spiritual journey more meaningful and personal. 
 
 🙌 Orison generates heartfelt prayers based on your preferences and needs. Whether you seek comfort, guidance, or simply want to express gratitude, Orison has your back.
 
