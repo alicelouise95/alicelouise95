@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Alice, originally from Cornwall, UK 🏖️, and currently doing an internship, working with iOS development! 📱
+I'm Alice, originally from Cornwall, UK 🏖️, working in Malmö, Sweden 🇸🇪 as an intern iOS developer. 📱
 
 ### My Recent iOS Project: Orison 🙏
 
