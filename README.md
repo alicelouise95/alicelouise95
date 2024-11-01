@@ -12,6 +12,6 @@ I'm Alice, an iOS developer originally from Cornwall, UK 🏖️, now living in 
 
 You can connect with me via my [LinkedIn profile](https://www.linkedin.com/in/alice-w-4742b5280/)
 
-You can find my portfolio [here](https://alicedev.my.canva.site/copy-of-hej)
+You can find my portfolio [here](https://alicedev.my.canva.site/)
 
 Thanks for stopping by my GitHub profile! 🌟
