@@ -1,17 +1,11 @@
 # Hey there! 👋
 
-I'm Alice, an iOS developer originally from Cornwall, UK 🏖️, now living in Malmö, Sweden 🇸🇪 
+I'm Alice, originally from Cornwall, UK 🏖️, now living in Malmö, Sweden 🇸🇪.  
 
-### My Recent iOS Project: Orison 🙏
+I have experience in iOS development, and one of my public projects is [SwiftySudoku](https://github.com/alicelouise95/SwiftySudoku), a Sudoku app I developed in Swift.  
 
-🌟 For my iOS project during my studies, I developed Orison. Orison is a Christian prayer app that makes your spiritual journey more meaningful and personal. 
+Recently, I discovered my passion for cybersecurity and have been diving deep into the field. I'm currently working through the TryHackMe roadmap, starting with [Pre-Security](https://github.com/alicelouise95/tryhackme-writeups-Pre-Security) and now progressing through [Cybersecurity 101](https://github.com/alicelouise95/TryHackMe-writeups-Cybersecurity101). My goal is to earn the Network+ certificate, gain hands-on experience, and eventually move into offensive security - penetration testing and red teaming.  
 
-🙌 Orison generates heartfelt prayers based on your preferences and needs. Whether you seek comfort, guidance, or simply want to express gratitude, Orison has your back.
+You can connect with me via my [LinkedIn profile](https://www.linkedin.com/in/alice-w-4742b5280/) or explore my portfolio [here](https://alicedev.my.canva.site/).  
 
-![OrisonGif1](https://github.com/alicelouise95/profile-assets/assets/130091399/a02dc944-7e7d-45c3-80ec-a8a1da51ebf7)
-
-You can connect with me via my [LinkedIn profile](https://www.linkedin.com/in/alice-w-4742b5280/)
-
-You can find my portfolio [here](https://alicedev.my.canva.site/)
-
-Thanks for stopping by my GitHub profile! 🌟
+Thanks for stopping by! 🌟
