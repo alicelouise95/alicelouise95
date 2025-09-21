@@ -16,7 +16,7 @@ Recently, I discovered my passion for cybersecurity and have been diving deep in
 
 | 🌱 Current Focus | 📚 Roadmap Progress | 🎯 Goals |
 |-----------------|------------------|---------|
-| Cybersecurity 101 on TryHackMe | [Pre-Security Writeups](https://github.com/alicelouise95/tryhackme-writeups-Pre-Security) <br> [Cybersecurity 101 Writeups](https://github.com/alicelouise95/TryHackMe-writeups-Cybersecurity101) | Network+ certificate <br> Entry-level experience <br> Penetration testing & Red Teaming |
+| Pursuing Network+ Certificate | [Pre-Security Writeups](https://github.com/alicelouise95/tryhackme-writeups-Pre-Security) <br> [Cybersecurity 101 Writeups](https://github.com/alicelouise95/TryHackMe-writeups-Cybersecurity101) | Network+ certificate <br> Entry-level experience <br> Penetration testing & Red Teaming |
 
 </div>
 
